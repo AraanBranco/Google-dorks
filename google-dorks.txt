@@ -1,4 +1,5 @@
-﻿allintitle: "index of/admin"
+inurl:cp.php?cl=cp nowmenuid=
+allintitle: "index of/admin"
 allintitle: "index of/root"
 allintitle: restricted filetype :mail
 allintitle: restricted filetype:doc site:gov
