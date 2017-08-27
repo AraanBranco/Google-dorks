@@ -5139,3 +5139,4 @@ inurl:”usysinfo?login=true”
 inurl:”utilities/TreeView.asp”
 inurl:”vsadmin/login” | inurl:”vsadmin/admin” inurl:.php|.asp
 inurl:”wvdial.conf” intext:”password”Inurl:.co.ke filetype:pdf
+ext:env DB_PASSWORD
